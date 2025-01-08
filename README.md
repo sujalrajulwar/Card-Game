@@ -17,8 +17,8 @@ This is a simple Python-based card game that simulates a round-based competition
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rushi4git/card-game.git
-    cd card-game
+    git clone https://github.com/sujalrajulwar/Card-Game.git
+    cd Card-Game
     ```
 
 2. Ensure you have Python installed. You can check your Python version using:
